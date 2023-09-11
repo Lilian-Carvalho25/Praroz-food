@@ -1,10 +1,11 @@
-# Praroz food
+# Praroz food 🍔
 Apresento aqui uma landing page feita com carinho, de uma loja de comida. 
 
 ## ⚙ Funcionalidades 
 - Página linda, responsivas e bem construída <br>
 - Projetos reunidos de uma forma simples, em um só lugar <br><br>
 
+<img src="https://i.imgur.com/5TxNpzv.png" width="600px" />
 
 ## 🖥️ Tecnologias utilizadas:<br>
 ###
@@ -19,4 +20,4 @@ Apresento aqui uma landing page feita com carinho, de uma loja de comida.
 
 ###
 
-**Link do site:** <i>[clique aqui]() <br>
+**Link do site:** <i>[clique aqui](https://lilian-carvalho25.github.io/Praroz-food/) <br>
